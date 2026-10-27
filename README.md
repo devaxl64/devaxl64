@@ -1,49 +1,45 @@
-# Olá, eu sou o Axel! 👋
+# Olá, eu sou o Axel Castro! 👋
 
-### Desenvolvedor Java em formação | Estudante de Análise e Desenvolvimento de Sistemas
+### Desenvolvimento Java, aplicações desktop e interfaces web | Estudante de ADS
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java e desenvolvimento Backend**, buscando minha primeira oportunidade profissional na área de Desenvolvimento de Software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java e desenvolvimento de software**. Transformo ideias em projetos práticos, combinando estudos, pesquisa, ferramentas de IA e testes para evoluir minhas habilidades.
 
-Atualmente estou fortalecendo meus conhecimentos em **Java, lógica de programação, Programação Orientada a Objetos (POO) e bancos de dados**, colocando o aprendizado em prática por meio de projetos pessoais.
+Estou construindo meu portfólio e buscando oportunidades de **estágio, desenvolvimento júnior e projetos freelance compatíveis com minha experiência**.
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias e ferramentas
 
-* **Java**
-* **Programação Orientada a Objetos (POO)**
-* **MySQL / SQL**
-* **Git & GitHub**
-* **Linux**
-* C#
-* HTML & CSS
-* JavaScript (fundamentos)
+- **Java, JavaFX e Maven** — aplicações desktop
+- **SQL, MySQL/MariaDB e SQLite** — persistência de dados
+- **HTML, CSS e JavaScript** — interfaces web
+- **Git, GitHub e Linux** — desenvolvimento e versionamento
+- **C# e Programação Orientada a Objetos** — projetos e fundamentos
 
 ## 🚀 Projetos em destaque
 
-### 📝 SimpleNote
+### 📝 SimpleNote — JavaFX
 
-Aplicação desktop para gerenciamento de anotações desenvolvida utilizando **Java, JavaFX e MySQL**.
+Aplicativo desktop de anotações com lista e grade, busca, personalização por cores, calendário e persistência local com sincronização MariaDB. **Versão demonstrativa para portfólio.**
 
-🔗 [Ver repositório](https://github.com/devaxl64/SimpleNote)
+[Repositório e capturas de tela](https://github.com/devaxl64/Java_SimpleNote)
 
-### 📚 QuizSimulator
+### 📱 Tela de Redes Sociais — HTML e CSS
 
-Simulador de avaliações desenvolvido em **Java**, criado para colocar em prática conceitos de lógica de programação.
+Interface interativa com smartphone e acesso a páginas e perfis por uma navegação visual.
 
-🔗 [Ver repositório](https://github.com/devaxl64/QuizSimulator_Public)
+[Repositório](https://github.com/devaxl64/Tela_Redes-Sociais) · [Ver página](https://devaxl64.github.io/Tela_Redes-Sociais/)
 
-## 📚 Atualmente estudando
+### 🔐 Tela de Login Responsiva — HTML, CSS e JavaScript
 
-* Java
-* Lógica de Programação
-* Programação Orientada a Objetos
-* Desenvolvimento Backend
-* Banco de Dados
+Projeto de interface **mobile-first**, com adaptação a diferentes tamanhos de tela e validação demonstrativa no navegador, sem autenticação em servidor.
+
+[Repositório](https://github.com/devaxl64/Tela_Login-Responsiva_Mobile-First)
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade de **Estágio em Desenvolvimento de Software**, especialmente em ambientes onde possa evoluir meus conhecimentos em **Java e Backend**, aprender com outros desenvolvedores e adquirir experiência profissional na área.
+Desenvolver minha experiência com projetos reais, colaborar com equipes de software e conquistar oportunidades na área de **Java e desenvolvimento de aplicações**.
 
 ## 📫 Contato
 
-* LinkedIn: [linkedin.com/in/marcellaxel](https://www.linkedin.com/in/marcellaxel/)
-* Portfólio: [devaxl64.github.io/Portif-lio](https://devaxl64.github.io/Portif-lio/)
+- [LinkedIn](https://www.linkedin.com/in/marcellaxel/)
+- [Portfólio](https://devaxl64.github.io/Portif-lio/)
+- [GitHub](https://github.com/devaxl64)
