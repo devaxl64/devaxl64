@@ -32,7 +32,7 @@ Interface interativa com smartphone e acesso a páginas e perfis por uma navega�
 
 Projeto de interface **mobile-first**, com adaptação a diferentes tamanhos de tela e validação demonstrativa no navegador, sem autenticação em servidor.
 
-[Repositório](https://github.com/devaxl64/Tela_Login-Responsiva_Mobile-First)
+[Repositório](https://github.com/devaxl64/Tela_Login-Responsiva_Mobile-First) · [Ver página](https://devaxl64.github.io/Tela_Login-Responsiva_Mobile-First/) 
 
 ## 🎯 Objetivo
 
