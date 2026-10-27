@@ -1,6 +1,6 @@
 # Olá, eu sou o Axel Castro! 👋
 
-### Desenvolvimento Java, aplicações desktop e interfaces web | Estudante de ADS
+### Desenvolvimento Android, Java desktop e interfaces web | Estudante de ADS
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java e desenvolvimento de software**. Transformo ideias em projetos práticos, combinando estudos, pesquisa, ferramentas de IA e testes para evoluir minhas habilidades.
 
@@ -8,6 +8,7 @@ Estou construindo meu portfólio e buscando oportunidades de **estágio, desenvo
 
 ## 🛠️ Tecnologias e ferramentas
 
+- **Java, Android SDK e XML** — aplicativos Android
 - **Java, JavaFX e Maven** — aplicações desktop
 - **SQL, MySQL/MariaDB e SQLite** — persistência de dados
 - **HTML, CSS e JavaScript** — interfaces web
@@ -15,6 +16,12 @@ Estou construindo meu portfólio e buscando oportunidades de **estágio, desenvo
 - **C# e Programação Orientada a Objetos** — projetos e fundamentos
 
 ## 🚀 Projetos em destaque
+
+### 📱 Simulado PPI — Android
+
+Aplicativo Android de preparação para avaliações, com questões de múltipla escolha, simulados, correção automática, histórico de resultados e consulta de gabaritos. Projeto de estudo e demonstração para portfólio.
+
+[Repositório público, capturas de tela e APK demonstrativo](https://github.com/devaxl64/QuizSimulator_Public)
 
 ### 📝 SimpleNote — JavaFX
 
