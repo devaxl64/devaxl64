@@ -21,7 +21,7 @@ Estou construindo meu portfólio e buscando oportunidades de **estágio, desenvo
 
 Aplicativo Android de preparação para avaliações, com questões de múltipla escolha, simulados, correção automática, histórico de resultados e consulta de gabaritos. Projeto de estudo e demonstração para portfólio.
 
-[Repositório público, capturas de tela e APK demonstrativo](https://github.com/devaxl64/QuizSimulator_Public)
+[Repositório público e capturas de tela.](https://github.com/devaxl64/SimuladoPPI_Public/)
 
 ### 📝 SimpleNote — JavaFX
 
